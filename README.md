@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @himanshus1904
+- 👋 Hi, I’m Himanshu Sharma
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Generative AI uses, RAG, Responsible AI and Ethics
 - 💞️ I’m looking to collaborate on these topics
