@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Himanshu Sharma
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning Generative AI uses, RAG, Responsible AI and Ethics
-- 💞️ I’m looking to collaborate on these topics
+- 🌱 I’m currently learning and implementing Generative AI usecases, RAG, Agentic AI, Responsible AI and Ethics
 - 📫 How to reach me -  LinkedIn - https://www.linkedin.com/in/himanshu-sharma-49309214a/
 
 <!---
